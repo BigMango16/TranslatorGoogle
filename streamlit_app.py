@@ -1,7 +1,7 @@
 import streamlit as st
 from googletrans import Translator
 from gtts import gTTS
-import os
+
 
 # Заглавие
 st.title('Приложение за превод на текст')
